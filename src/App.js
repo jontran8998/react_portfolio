@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 
 import { About, Skills, Work, Testimonial, Header, Footer } from "./container";
 
@@ -6,7 +6,7 @@ import { Navbar } from "./components";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Navbar />
       <Header />
       <About />
