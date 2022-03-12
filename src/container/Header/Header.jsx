@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 import { images } from "../../constants";
 import "./Header.scss";
-
+import { AppWrap, MotionWrap } from "../../wrapper";
 const scaleVariants = {
   whileInView: {
     scale: [0, 1],
@@ -76,4 +76,4 @@ const Header = () => (
   </div>
 );
 
-export default Header;
+export default AppWrap(Header, "home");
