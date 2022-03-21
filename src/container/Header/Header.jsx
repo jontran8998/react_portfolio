@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 import { images } from "../../constants";
 import "./Header.scss";
-import { AppWrap, MotionWrap } from "../../wrapper";
+import { AppWrap } from "../../wrapper";
 const scaleVariants = {
   whileInView: {
     scale: [0, 1],
