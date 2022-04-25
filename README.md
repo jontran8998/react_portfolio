@@ -1,6 +1,7 @@
 # My Portfolio
 
-**Reference from [Youtube](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=284)**
+## Live Demo
+https://jontran-portfolio.netlify.app
 
 ## Description
 This is an Portfolio Application. It is built by React and Sanity as CMS
@@ -24,8 +25,7 @@ This is an Portfolio Application. It is built by React and Sanity as CMS
 3. Framer_Motion
 4. HOC
 
-## Live Demo
-https://jontran-portfolio.netlify.app
-
 ## Author
 Jon Tran 😊
+
+**Reference from [Youtube](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=284)**
