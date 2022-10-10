@@ -28,4 +28,7 @@ This is an Portfolio Application. It is built by React and Sanity as CMS
 ## Author
 Jon Tran 😊
 
+
+
+
 **Reference from [Youtube](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=284)**
