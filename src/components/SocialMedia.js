@@ -15,7 +15,7 @@ const SocialMedia = () => (
       </a>
     </div>
     <div>
-      <a href="https://github.com/javie1199">
+      <a href="https://github.com/jontran8998">
         <FaGithub />
       </a>
     </div>
