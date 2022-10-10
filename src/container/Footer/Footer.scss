@@ -71,6 +71,10 @@
   flex-direction: column;
   margin: 1rem 2rem;
 
+  .p-text {
+    background-color: var(--white-color);
+  }
+
   div {
     width: 100%;
 
@@ -107,7 +111,7 @@
     padding: 1rem 2rem;
     border-radius: 10px;
     border: none;
-    background-color: var(--secondary-color);
+    background-color: var(--gray-color);
 
     font-weight: 500;
     color: var(--white-color);

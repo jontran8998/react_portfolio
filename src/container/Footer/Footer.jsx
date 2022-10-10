@@ -89,7 +89,7 @@ const Footer = () => {
               onChange={handleChangeInput}
             />
           </div>
-          <button type="button" className="p-text" onClick={handleSubmit}>
+          <button type="button" onClick={handleSubmit}>
             {!loading ? "Send Message" : "Sending..."}
           </button>
         </div>
@@ -102,8 +102,4 @@ const Footer = () => {
   );
 };
 
-export default AppWrap(
-  MotionWrap(Footer, "app__footer"),
-  "contact",
-  "app__whitebg"
-);
+export default AppWrap(MotionWrap(Footer, "app__footer"), "contact");
